@@ -1,0 +1,11 @@
+
+***https://www.google.com***
+
+==================================
+Test Result Summary: chrome browser
+----------------------------------
+Total Passed: 4
+Total Skipped: 0
+Total Failed: 0
+Total Run: 4
+==================================

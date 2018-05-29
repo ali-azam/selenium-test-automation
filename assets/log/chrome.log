@@ -1,0 +1,47 @@
+-----------------------Tue May 29 16:52:05 BDT 2018----------------------
+
+Executed Suite Name : AutomationTest
+
+Executed Test Name : GoogleSearch_Test
+
+----------------------------------
+
+Executed TestCase Name : test_GmailLinkAndSignInButton, Status : Passed
+Message: null
+
+Executed TestCase Name : test_GooglePageImageLink, Status : Passed
+Message: null
+
+Executed TestCase Name : test_GoogleTitle, Status : Passed
+Message: null
+
+Executed TestCase Name : test_SearchByHelloWorld, Status : Passed
+Message: null
+
+----------------------------------
+
+----------------------------------
+
+
+Tests suite 'AutomationTest' for chrome browser
+===============================================================
+
+Summary for Test: GoogleSearch_Test
+-----------------------------------------------
+Passed - 4
+Skipped - 0
+Failed - 0
+Total test case run - 4
+-----------------------------------------------
+***https://www.google.com***
+
+==================================
+Test Result Summary: chrome browser
+----------------------------------
+Total Passed: 4
+Total Skipped: 0
+Total Failed: 0
+Total Run: 4
+==================================
+
+----------------------------------

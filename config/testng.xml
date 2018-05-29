@@ -1,0 +1,27 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AutomationTest" verbose="1" preserve-order="true">
+	<listeners>
+		<listener class-name="com.automation.util.CustomReporter" />
+	</listeners>
+
+	<!-- test name="Nopackage" > <classes> <class name="NoPackageTest" /> </classes> </test -->
+
+	<packages>
+		<package name="com.automation.test" />
+	</packages>
+
+	<test name="GoogleSearch_Test">
+		<classes>
+			<class name="com.automation.test.GoogleSearch_Test">
+				<methods>
+					<include name="test_GoogleTitle" />
+					<include name="test_GmailLinkAndSignInButton" />
+					<include name="test_GooglePageImageLink" />
+					<include name="test_SearchByHelloWorld" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
